@@ -91,7 +91,8 @@ This resulted in Git being unable to automatically merge the changes.
 - Improved command-line and GitHub usage skills.
 - Learned best practices for commits and repository management.
 
-###ScreenShots
+
+## ScreenShots
 <img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 14 22 PM" src="https://github.com/user-attachments/assets/52ed2b69-f85d-4fe0-84ba-f109843ef7c5" />
 <img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 42 29 PM" src="https://github.com/user-attachments/assets/fe3c2fb2-05c9-4414-a18f-23ac34b85f1c" />
 <img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 14 22 PM" src="https://github.com/user-attachments/assets/c152b8f5-9dcb-4bad-a4ca-5ba9411f85a1" />

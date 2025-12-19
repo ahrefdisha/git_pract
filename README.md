@@ -1,4 +1,4 @@
-Hands-On Version Control Using Git Bash and GitHub
+# Hands-On Version Control Using Git Bash and GitHub
 
 ## 📌 Project Overview
 This project was created to demonstrate practical understanding of **Git version control**.  

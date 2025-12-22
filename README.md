@@ -93,7 +93,17 @@ This resulted in Git being unable to automatically merge the changes.
 
 
 ## ScreenShots
-<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 14 22 PM" src="https://github.com/user-attachments/assets/52ed2b69-f85d-4fe0-84ba-f109843ef7c5" />
-<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 42 29 PM" src="https://github.com/user-attachments/assets/fe3c2fb2-05c9-4414-a18f-23ac34b85f1c" />
-<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 14 22 PM" src="https://github.com/user-attachments/assets/c152b8f5-9dcb-4bad-a4ca-5ba9411f85a1" />
-
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 14 22 PM" src="https://github.com/user-attachments/assets/4f02f4e2-3054-42e1-8c47-f98dbe2ded3c" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 20 37 PM" src="https://github.com/user-attachments/assets/9e1b7d73-97a1-406f
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 20 48 PM" src="https://github.com/user-attachments/assets/be2fa52a-4fb0-49c0-aa91-84de4c56c9f7" />
+-9d94-cee20e4e27de" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 21 01 PM" src="https://github.com/user-attachments/assets/885411bb-7a99-43f2-8f1c-5857235f3ad1" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 21 47 PM" src="https://github.com/user-attachments/assets/9cf88d83-2a0a-4375-a916-c246168cfeff" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 24 27 PM" src="https://github.com/user-attachments/assets/561721a1-d1b8-45d0-b2f0-f77eb0565e08" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 42 29 PM" src="https://github.com/user-attachments/assets/f2470df2-debd-403f-9bf3-c1632c036251" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 42 39 PM" src="https://github.com/user-attachments/assets/72288c07-bdfb-4ddf-a17c-edbb6296fe5e" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 45 41 PM" src="https://github.com/user-attachments/assets/432bc6de-2f92-473a-afb7-54ffc56b0f28" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 48 52 PM" src="https://github.com/user-attachments/assets/ac5de57a-700c-43aa-bf96-e42d28b7228b" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 49 34 PM" src="https://github.com/user-attachments/assets/91f45d42-d5df-40be-8cc0-9a13be4098bd" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 52 17 PM" src="https://github.com/user-attachments/assets/21e68657-93de-4900-824e-1c92c15c7de1" />
+<img width="1440" height="900" alt="Screenshot 2025-12-18 at 1 55 15 PM" src="https://github.com/user-attachments/assets/e6ce98d3-0bf6-43f4-9b59-7869d31650d9" />

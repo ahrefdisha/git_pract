@@ -30,7 +30,7 @@ The following branches were created and used:
 
 ---
 
-## Git Commands Practiced
+## Git Commands 
 The assignment demonstrates usage of:
 
 - `git init`

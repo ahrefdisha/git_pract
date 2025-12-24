@@ -1,6 +1,6 @@
 # Hands-On Version Control Using Git Bash and GitHub
 
-## 📌 Project Overview
+## Project Overview
 This project was created to demonstrate practical understanding of **Git version control**.  
 It covers repository initialization, branching, committing, merging, merge conflict creation, and conflict resolution using real Git commands.
 
@@ -8,7 +8,7 @@ The project represents a basic web application structure for a Disaster Prepared
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `index.html` — Homepage
 - `login.html` — Login page
 - `signup.html` — Signup page
@@ -19,7 +19,7 @@ The project represents a basic web application structure for a Disaster Prepared
 
 ---
 
-## 🌿 Branches Used
+## Branches Used
 The following branches were created and used:
 
 - **master** — Main branch
@@ -30,7 +30,7 @@ The following branches were created and used:
 
 ---
 
-## 🔧 Git Commands Practiced
+## Git Commands Practiced
 The assignment demonstrates usage of:
 
 - `git init`
@@ -46,19 +46,19 @@ The assignment demonstrates usage of:
 
 ---
 
-## 🔀 Merging Workflow
+## Merging Workflow
 - Branch `b1` was merged into `master` using fast-forward merge.
 - Branch `b2` was merged using the ORT merge strategy.
 - Branches `b3` and `b4` caused merge conflicts due to changes in the same file.
 
 ---
 
-## ⚠️ Merge Conflict Demonstration
+## Merge Conflict Demonstration
 
-### 📄 File Involved
+### File Involved
 `index.html`
 
-### 🔥 Reason for Conflict
+### Reason for Conflict
 The same file was modified differently in:
 - `master` branch
 - `b3` and `b4` branches
@@ -67,7 +67,7 @@ This resulted in Git being unable to automatically merge the changes.
 
 ---
 
-### ❌ Conflict Example
+### Conflict Example
 ```html
 <<<<<<< HEAD
 <h1>Homepage</h1>
@@ -75,7 +75,7 @@ This resulted in Git being unable to automatically merge the changes.
 <h1>HomePage - b3 version</h1>
 >>>>>>> b3
 
-⚠️ Challenges Faced
+Challenges Faced
 - Remote repository not configured initially (origin missing).
 - Branch name mismatch while pushing branches.
 - Authentication and permission errors with GitHub.
@@ -84,7 +84,7 @@ This resulted in Git being unable to automatically merge the changes.
 - Understanding merge strategies (fast-forward vs conflict merge).
 - Initial difficulty with Git commands in the terminal.
 
-🧠 Learning Outcomes
+Learning Outcomes
 - Learned how to manage multiple branches.
 - Understood Git merge workflows.
 - Gained experience resolving merge conflicts manually.
